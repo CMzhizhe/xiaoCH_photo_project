@@ -1,0 +1,4 @@
+<!--pages/home.wxml-->
+<view id="containt">
+ <l-button type="default">默认按钮</l-button>
+</view>
